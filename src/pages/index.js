@@ -28,20 +28,6 @@ const IndexPage = () => (
             </ListGroup.Item>
             <ListGroup.Item
               action
-              href="https://react-bootstrap.github.io/"
-              target="_blank"
-            >
-              react-bootstrap
-            </ListGroup.Item>
-            <ListGroup.Item
-              action
-              href="https://react-icons.netlify.com"
-              target="_blank"
-            >
-              react-icons
-            </ListGroup.Item>
-            <ListGroup.Item
-              action
               href="https://www.gatsbyjs.org/packages/gatsby-plugin-sass/"
               target="_blank"
             >
